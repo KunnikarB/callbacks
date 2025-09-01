@@ -1,3 +1,7 @@
+// Chained Callbacks
+
+// Each callback moves execution to the next step after 1 second, printing progress in order.
+
 // Step 1 function
 function step1(callback: () => void): void {
   setTimeout(() => {

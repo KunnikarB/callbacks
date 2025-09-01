@@ -1,4 +1,5 @@
 // 9) Math with Different Operations
+// The callback receives the result of the chosen math operation.
 function calculate(
   a: number,
   b: number,

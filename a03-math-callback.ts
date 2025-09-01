@@ -1,4 +1,5 @@
 // 3) Math Callback
+// The callback here receives the sum of two numbers.
 function addNumbers(
   a: number,
   b: number,

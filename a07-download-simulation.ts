@@ -1,4 +1,5 @@
 // 7) Download Simulation
+// The callback receives a string confirming simulated download from the given URL.
 function simulateDownload(
   url: string,
   callback: (message: string) => void
