@@ -1,0 +1,1 @@
+{"version":3,"file":"a07-download-simulation.js","sourceRoot":"","sources":["../src/a07-download-simulation.ts"],"names":[],"mappings":";;AAAA,yBAAyB;AACzB,mFAAmF;AACnF,SAAS,gBAAgB,CACvB,GAAW,EACX,QAAmC;IAEnC,UAAU,CAAC,GAAG,EAAE;QACd,QAAQ,CAAC,wBAAwB,GAAG,EAAE,CAAC,CAAC;IAC1C,CAAC,EAAE,IAAI,CAAC,CAAC;AACX,CAAC;AAED,QAAQ;AACR,gBAAgB,CAAC,sBAAsB,EAAE,OAAO,CAAC,GAAG,CAAC,CAAC"}

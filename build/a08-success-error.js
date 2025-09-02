@@ -1,3 +1,5 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 // 8) Success and Error Callback
 // Either the success callback or error callback is called depending on a random result.
 function randomSuccessOrError(onSuccess, onError) {
@@ -10,3 +12,4 @@ function randomSuccessOrError(onSuccess, onError) {
 }
 // Usage
 randomSuccessOrError(console.log, console.error);
+//# sourceMappingURL=a08-success-error.js.map

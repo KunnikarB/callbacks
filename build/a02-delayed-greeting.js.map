@@ -1,0 +1,1 @@
+{"version":3,"file":"a02-delayed-greeting.js","sourceRoot":"","sources":["../src/a02-delayed-greeting.ts"],"names":[],"mappings":";;AAAA,sBAAsB;AACtB,iEAAiE;AACjE,SAAS,aAAa,CAAC,QAAmC;IACxD,UAAU,CAAC,GAAG,EAAE;QACd,QAAQ,CAAC,gBAAgB,CAAC,CAAC;IAC7B,CAAC,EAAE,IAAI,CAAC,CAAC;AACX,CAAC;AAED,QAAQ;AACR,aAAa,CAAC,OAAO,CAAC,GAAG,CAAC,CAAC"}
